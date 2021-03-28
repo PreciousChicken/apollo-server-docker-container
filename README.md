@@ -1,2 +1,2 @@
 # apollo-server-docker-container
-Worked example of deploying an Apollo GraphQL server in a Node Docker Container
+A worked example to accompany the [Tie down scheme for an Apollo GraphQL server in a Node Docker container](https://www.preciouschicken.com/blog/posts/apollo-server-docker-container/) tutorial.
