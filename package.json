@@ -1,0 +1,25 @@
+{
+  "name": "apollo-server-docker-container",
+  "version": "1.0.0",
+  "description": "Worked example of deploying an Apollo GraphQL server in a Node Docker Container",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PreciousChicken/apollo-server-docker-container.git"
+  },
+  "keywords": [
+    "docker",
+    "node",
+    "graphql",
+    "apollo"
+  ],
+  "author": "PreciousChicken",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PreciousChicken/apollo-server-docker-container/issues"
+  },
+  "homepage": "https://github.com/PreciousChicken/apollo-server-docker-container#readme"
+}
